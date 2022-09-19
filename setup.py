@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='yet-another-fastapi-yet_another_fastapi_profiler',
+    name='yet_another_fastapi_profiler',
     version='1.0.0',
     license='MIT',
     author="Maxim Teplinsky",
