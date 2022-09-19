@@ -16,7 +16,7 @@ FastAPI request profiler with the following features:
 
 ### Installation
 
-`$ pip install yet-another-fastapi-profiler`
+`$ pip install yafp`
 
 ---
 
